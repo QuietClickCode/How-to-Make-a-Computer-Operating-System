@@ -1,0 +1,20 @@
+2024年9月30日 12:32:12 星期一
+操作系统和编译器和可以一起读
+
+
+”opera system“ 的搜索结果 | GitHub 中文社区
+https://www.github-zh.com/search/result?q=opera%20system
+
+GitHub中文社区 | GitHub中文网首页
+https://www.github-zh.com/
+https://github.com/QuietClickCode/How-to-Make-a-Computer-Operating-System.git
+https://github.com/QuietClickCode/30dayMakeOS.git
+
+30天自制操作系统 - 川合秀实 - 微信读书
+https://weread.qq.com/web/reader/38732220718ff5cf3877215
+
+一个64位操作系统的设计与实现 - 田宇 - 微信读书
+https://weread.qq.com/web/reader/4a4323f0718ff6824a40316
+
+用Go语言自制解释器 - 索斯藤·鲍尔 - 微信读书
+https://weread.qq.com/web/reader/74d32120813ab6de0g019b0e
